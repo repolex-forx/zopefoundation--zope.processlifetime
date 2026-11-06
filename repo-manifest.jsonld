@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zopefoundation/zope.processlifetime/commit/d8906386d6c7bb2105f38c0e0ca891a107aa816c",
       "git:hexsha": "d8906386d6c7bb2105f38c0e0ca891a107aa816c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zopefoundation/zope.processlifetime/commit/de9a6bb11f1589c1d40ff0a859e600322b81872b",
