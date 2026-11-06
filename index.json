@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "zope.processlifetime",
+  "versions": [
+    {
+      "commit": "d8906386d6c7bb2105f38c0e0ca891a107aa816c",
+      "tag": "",
+      "parsed_at": "2026-11-06T01:32:44.002599+00:00"
+    }
+  ]
+}
