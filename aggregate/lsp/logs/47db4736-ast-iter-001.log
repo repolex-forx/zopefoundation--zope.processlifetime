@@ -1,0 +1,7 @@
+[2026-11-21T23:38:24Z] === AST ITERATION 1 START | repo=zopefoundation/zope.processlifetime sha=47db4736 ===
+[2026-11-21T23:38:24Z] [iter=1] PHASE START: ast repo=zopefoundation/zope.processlifetime sha=47db4736
+[2026-11-21T23:38:24Z] [iter=1] Building AST aggregate chunks
+[2026-11-21T23:38:25Z] [iter=1] AST chunks built count=1 triples=10843
+[2026-11-21T23:38:25Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/47db4736804cabdf2a21fa1e35246e611056f801/.complete
+[2026-11-21T23:38:25Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-11-21T23:38:25Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
